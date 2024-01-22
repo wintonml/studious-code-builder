@@ -1,4 +1,4 @@
-namespace AbstractVsInterface.AbstractClasses
+namespace AbstractVsInterface.Abstract
 {
     public abstract class MichaelWintonAbstract
     {
