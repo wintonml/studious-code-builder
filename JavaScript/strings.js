@@ -12,3 +12,6 @@ function uppercaseTheString(text)
 }
 
 console.log(uppercaseTheString("can this be made uppercase?"))
+
+var helloString = "hello";
+console.log(helloString + ", this string is comprised of a variable and a string");
