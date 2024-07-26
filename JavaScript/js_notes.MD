@@ -3,6 +3,10 @@
 ## [JSDoc](https://jsdoc.app/)
 JSDoc is used to help programmers have a better understanding of the code. As JS is a loosely typed language the JSDoc can be used to help indicate the expected type(s) being passed into a function, or the type returned.
 
+## Keywords
+- `export`: Used to make variables, functions or classes accessible outside of the file it is defined in.
+- `export default`: Used to make a single value defined in the file accessible to other files.
+
 ## Arrays
 Arrays in JS are of type 'object'.  
 
